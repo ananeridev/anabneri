@@ -26,6 +26,7 @@ I like Java a little too much, write some articles and love the community a lot,
 # Projects
 Down here I linked some projects that I'm working on
 
-![olhando-pra-baixo](https://user-images.githubusercontent.com/42419543/87206116-6a970880-c2df-11ea-8849-e4d38d7c253d.gif)
+![kisses-look-down](https://user-images.githubusercontent.com/42419543/87210986-ffa0fe00-c2ed-11ea-8870-402291667a06.gif)
+
 
 
