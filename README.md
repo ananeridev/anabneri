@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-Hi I'm Ana Beatriz, Java fullstack developer, I'm currently a Software Engineer at Itaú Bank from Brazil, mom of a Cat and Dog <3, and sometimes I play violin.
+ I'm Ana Beatriz, Java fullstack developer, I'm currently a Software Engineer at Itaú Bank from Brazil, mom of a Cat and Dog <3, and sometimes I play violin.
 
 I'm really curious, always wanting to learn new things (this blog is proof of that). I like and get along with Java, but I really enjoy venturing into infra, linux and also the front end. In addition to being a developer I'm a technology speaker and I go around coordinating theSou Java, Womakerscode and Unicorntech communities.
 
