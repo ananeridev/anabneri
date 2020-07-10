@@ -25,6 +25,7 @@ I love to learn and I love to teach, when I'm not working I'm writing some artic
 
 # Projects
 Check here some projects the I'm working on
+
 ![olhando-pra-baixo](https://user-images.githubusercontent.com/42419543/87206116-6a970880-c2df-11ea-8849-e4d38d7c253d.gif)
 
 
