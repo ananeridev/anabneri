@@ -1,30 +1,30 @@
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leticiacamposs2)](https://github.com/anabneri)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacamposs/)](https://www.linkedin.com/in/anabeatrizdev/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/anabneri)
 ## Hi, I'm Ana :two_hearts:
 
-## Who am I?
+I like Java a little too much, write some articles and love the community a lot, I'm currently on @womakerscode and @developersbr
+[@anabneri](https://twitter.com/anabneri)
 
- I'm Ana Beatriz, Java fullstack developer, I'm currently a Software Engineer at Itaú Bank from Brazil, mom of a Cat and Dog <3, and sometimes I play violin.
+## Fun Facts
+:sparkles: I am the mother of a cat called Spock and a dog called Julie
 
-I'm really curious, always wanting to learn new things (this blog is proof of that). I like and get along with Java, but I really enjoy venturing into infra, linux and also the front end. In addition to being a developer I'm a technology speaker and I go around coordinating theSou Java, Womakerscode and Unicorntech communities.
+:sparkles: I don't like doing front end because I suck at CSS but usually I have been improving
 
-I love to learn and I love to teach, when I'm not working I'm writing some article, or producing some content for the community! You see my articles already published on Dev.to, and follow the most recent ones in my blog [anabneri.com.br](https://anabneri.com.br/)
+:sparkles: I play violin, and I loveeeee classic music mixed with rock'n roll 
 
-## Some skills:
+:sparkles: I love my pets, follow me on social medias to see them, you're gonna love to 
 
-* 🦄 Java FullStack
-* 👩🏼‍💻 NoSQL and SQL databases
-* ✨ Algorithms
-* 💃🏿 C++ / Arduino
-* ✨ CI/CD - DevOps life
-* 🤸 Kotlin
-* 🎇 Angular - HTML and CSS
-* 🎉 AWS Services
-* 😎 Nodejs
-* 😮 Firebase
-* 🙌🏽 Groovy Grails
-* 🛠 IoT
+:sparkles: Software is a hobby for me, I love learning new things, but sometimes I spend a long day watching series so I don't go crazy with the codes 
+
+:sparkles: My favorite band is: Iron Maiden and Pink Floyd
+
+:dizzy: Ok, for finish, check my Blog: [anabneri.com.br](https://anabneri.com.br/)
+
+:dizzy: Wooow and check my youtube channel: [Youtube.com/AnaBeatriz](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA?view_as=subscriber)
 
 # Projects
-Check here some projects the I'm working on
+Down here I linked some projects that I'm working on
 
 ![olhando-pra-baixo](https://user-images.githubusercontent.com/42419543/87206116-6a970880-c2df-11ea-8849-e4d38d7c253d.gif)
 
