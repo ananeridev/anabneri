@@ -9,7 +9,7 @@ I like Java a little too much, write some articles and love the community a lot,
 ## Fun Facts about me
 :sparkles: I am the mother of a cat called Spock and a dog called Julie
 
-:sparkles: I don't like doing front end because I suck at CSS but usually I have been improving
+:sparkles: I don't like doing front end because I'm not good with  CSS but usually I have been improving
 
 :sparkles: I play violin, and I loveeeee classic music mixed with rock'n roll 
 
@@ -17,7 +17,7 @@ I like Java a little too much, write some articles and love the community a lot,
 
 :sparkles: Software is a hobby for me, I love learning new things, but sometimes I spend a long day watching series so I don't go crazy with the codes 
 
-:sparkles: My favorite band is: Iron Maiden and Pink Floyd
+:sparkles: My favorite band are: Iron Maiden and Pink Floyd
 
 :dizzy: Ok, for finish, check my Blog: [anabneri.com.br](https://anabneri.com.br/)
 
