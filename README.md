@@ -6,7 +6,7 @@
 I like Java a little too much, write some articles and love the community a lot, I'm currently on @womakerscode and @developersbr
 [@anabneri](https://twitter.com/anabneri)
 
-## Fun Facts
+## Fun Facts about me
 :sparkles: I am the mother of a cat called Spock and a dog called Julie
 
 :sparkles: I don't like doing front end because I suck at CSS but usually I have been improving
