@@ -23,7 +23,6 @@ I like Java a little too much, write some articles and love the community a lot,
 # Projects
 Down here I linked some projects that I'm working on
 
-![kisses-look-down](https://user-images.githubusercontent.com/42419543/87210986-ffa0fe00-c2ed-11ea-8870-402291667a06.gif)
-
+:point_down:
 
 
