@@ -1,4 +1,17 @@
-![capa_github](https://user-images.githubusercontent.com/42419543/89583909-8d024000-d811-11ea-844b-611dc5af53f1.png)
+### Hello, I'm Ana Beatriz Neri or just Ana, I'm a Software Engineer from Brazil!
+
+**Who am I**
+
+All my life was based in help people, discover new things on all the web, and listen to Rock and Roll <3 When I was a kid I liked to surf the web using some friends' computers because I came from a family that was unable to pay for one and until that was cool because I learned to love reading a lot because I don't always have a computer.
+My first contact with development was with Tumblr, I developed my first blog using the basics of HTML and CSS and since then I'm a person who loves to build something on the web.
+
+**I work with**
+
+Today I'm a Software Engineer with a focus on Java, Microsservices, Spring Framework... But I like to work in other technologies too, I like to work in communities and support peoples when I have time and I really like it, If you want you to know check Womakerscode and DevelopersBR these are the communities that I help at the moment and really love.
+
+In a few words, this is me, I'm a woman who likes to code in Java, and play bass in my free time :p I live in Brazil and one of my dreams is to work in another country to have the possibility to know other cultures!
+
+" If one day you are asked why you evolve quickly, say: My fears don't stop my dreams "
 
 ### Technology Stack 👩‍💻
 
