@@ -11,7 +11,7 @@ Today I'm a Software Engineer with a focus on Java, Microsservices, Spring Frame
 
 In a few words, this is me, I'm a woman who likes to code in Java, and play bass in my free time :p I live in Brazil and one of my dreams is to work in another country to have the possibility to know other cultures!
 
-" If one day you are asked why you evolve quickly, say: My fears don't stop my dreams "
+*"If one day you are asked why you evolve quickly, say: My fears don't stop my dreams"*
 
 ### Technology Stack 👩‍💻
 
