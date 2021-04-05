@@ -1,14 +1,14 @@
 ### Hello, I'm Ana! 👋
 
-🇧🇷 I'm building things with Java, Spring Framework and Kafka at [@PicPay](https://github.com/PicPay) <br>
-👩‍💻 Making some classes of Java at ExpertsClub on [@Rocketseat](https://github.com/Rocketseat) <br>
+🇧🇷  I'm building things with Java, Spring Framework and Kafka at [@PicPay](https://github.com/PicPay) <br>
+👩‍💻  Making some classes of Java at ExpertsClub on [@Rocketseat](https://github.com/Rocketseat) <br>
 
 
 ### Find me elsewhere 🌎
 
-🚀 [Blog](https://ananeri.dev/) <br>
-🐦 [Twitter](https://twitter.com/anabneri) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/anabeatrizdev) <br>
+🚀  [Blog](https://ananeri.dev/) <br>
+🐦  [Twitter](https://twitter.com/anabneri) <br>
+💼  [LinkedIn](https://www.linkedin.com/in/anabeatrizdev) <br>
 
 ### My technology Stack 👩‍💻
 
@@ -27,15 +27,4 @@
 
 <br />
 <br />
-
-
-### Recent Acitivies ✨
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabneri&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=anabneri&theme=radical&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
 
