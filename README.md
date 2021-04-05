@@ -1,19 +1,16 @@
-### Hello, I'm Ana Beatriz Neri or just Ana, I'm a Software Engineer from Brazil!
+### Hello, I'm Ana! 👋
 
-**Who am I**
+🇧🇷 I'm building things with Java, Spring Framework and Kafka at [@PicPay](https://github.com/PicPay) <br>
+👩‍💻 Making some classes of Java at ExpertsClub on [@Rocketseat](https://github.com/Rocketseat) <br>
 
-All my life was based in help people, discover new things on all the web, and listen to Rock and Roll <3 When I was a kid I liked to surf the web using some friends' computers because I came from a family that was unable to pay for one and until that was cool because I learned to love reading a lot because I don't always have a computer.
-My first contact with development was with Tumblr, I developed my first blog using the basics of HTML and CSS and since then I'm a person who loves to build something on the web.
 
-**I work with**
+### Find me elsewhere 🌎
 
-Today I'm a Software Engineer with a focus on Java, Microsservices, Spring Framework... But I like to work in other technologies too, I like to work in communities and support peoples when I have time and I really like it, If you want you to know check Womakerscode and DevelopersBR these are the communities that I help at the moment and really love.
+🚀 [Blog](https://ananeri.dev/) <br>
+🐦 [Twitter](https://twitter.com/anabneri) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/anabeatrizdev) <br>
 
-In a few words, this is me, I'm a woman who likes to code in Java, and play bass in my free time :p I live in Brazil and one of my dreams is to work in another country to have the possibility to know other cultures!
-
-*"If one day you are asked why you evolve quickly, say: My fears don't stop my dreams"*
-
-### Technology Stack 👩‍💻
+### My technology Stack 👩‍💻
 
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Scala" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
