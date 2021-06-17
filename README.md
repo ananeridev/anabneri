@@ -1,7 +1,7 @@
 ### Hello, I'm Ana! 👋
 
 🇧🇷  I'm building things with Java, Spring Framework and Kafka at [@PicPay](https://github.com/PicPay) <br>
-👩‍💻  Making some classes of Java at ExpertsClub on [@Rocketseat](https://github.com/Rocketseat) <br>
+👩‍💻  Teaching Java at ExpertsClub on [@Rocketseat](https://github.com/Rocketseat) <br>
 
 
 ### Find me elsewhere 🌎
