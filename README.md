@@ -1,6 +1,7 @@
 ### Hello, I'm Ana! 👋
 
-🇧🇷  I'm building things with Java, Spring Framework and Kafka at [@PicPay](https://github.com/PicPay) <br>
+I'm a Senior Software Engineer 
+
 👩‍💻  Teaching Java at ExpertsClub on [@Rocketseat](https://github.com/Rocketseat) <br>
 🦋  Working on Java Bootcamp and Community Volunteer [@Womakerscode](https://github.com/WoMakersCode) <br>
 
